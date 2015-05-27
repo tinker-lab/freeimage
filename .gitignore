@@ -1,3 +1,6 @@
+build/
+install/
+
 # Compiled Object files
 *.slo
 *.lo
